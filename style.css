@@ -9,3 +9,12 @@ h1{
 .line{
     border: 1px solid;
 }
+
+.accordion{
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.accordion__item{
+    border: 1px solid black;
+}
