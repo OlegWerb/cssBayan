@@ -92,3 +92,23 @@ h1{
     padding: 10px 15px;
 
 }
+
+@media (max-width: 728px){
+
+    body {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 526px){
+    body {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 320px){
+    .picture {
+        width: 320px;
+        height: auto;
+    }
+}
