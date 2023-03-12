@@ -90,6 +90,7 @@ h1{
 .picture {
     display: none;
     padding: 10px 15px;
+    cursor:pointer;
 
 }
 
